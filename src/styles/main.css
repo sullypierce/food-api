@@ -1,0 +1,14 @@
+.foodList {
+    display: flex;
+    flex-direction: row;
+
+}
+
+div.foodList {
+    display: flex;
+    flex-direction: row;
+}
+.foodBox {
+    border: 2px solid black;
+    margin: 3px;
+}
