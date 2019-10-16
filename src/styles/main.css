@@ -8,7 +8,7 @@ div.foodList {
     display: flex;
     flex-direction: row;
 }
-.foodBox {
-    border: 2px solid black;
+.foodThing {
+    border: 2px solid red;
     margin: 3px;
 }
